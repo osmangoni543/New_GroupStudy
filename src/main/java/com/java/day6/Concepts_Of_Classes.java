@@ -6,6 +6,7 @@ public class Concepts_Of_Classes {
 	// If the method is static then it can call itself directly in the main method.
 	// If the method is static then it can be called using Class name.
 
+
 	public static void main(String[] args) {
 		
 		method1();
